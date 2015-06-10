@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Brian\Desktop\GitHub\google-cardboard-android\cardboard-java-master\CardboardSample\libs\cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2403806886bbe517707b43afb5e5c9ce9883c4d2">
+        <dex dex="C:\Users\Brian\Desktop\GitHub\google-cardboard-android\cardboard-java-master\CardboardSample\build\intermediates\pre-dexed\debug\cardboard-f283c595db84d54296fe5d76341116cf42ba7db6.jar" />
+    </item>
+    <item
+        jar="D:\Cardboard\cardboard-java-master\cardboard-java-master\CardboardSample\libs\libprotobuf-java-2.6-nano.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2ba3ce68542db5a4b672a22606e4fd4631ed5c4f">
+        <dex dex="D:\Cardboard\cardboard-java-master\cardboard-java-master\CardboardSample\build\intermediates\pre-dexed\debug\libprotobuf-java-2.6-nano-f0ffa0a76ac862f89491d795f6df2a51473f7daa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brian\Desktop\GitHub\google-cardboard-android\cardboard-java-master\CardboardSample\libs\libprotobuf-java-2.6-nano.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2ba3ce68542db5a4b672a22606e4fd4631ed5c4f">
+        <dex dex="C:\Users\Brian\Desktop\GitHub\google-cardboard-android\cardboard-java-master\CardboardSample\build\intermediates\pre-dexed\debug\libprotobuf-java-2.6-nano-4f57ba6b92eb99a051dfe361038aa68ec1ec9f1a.jar" />
+    </item>
+    <item
+        jar="D:\Cardboard\cardboard-java-master\cardboard-java-master\CardboardSample\libs\cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2403806886bbe517707b43afb5e5c9ce9883c4d2">
+        <dex dex="D:\Cardboard\cardboard-java-master\cardboard-java-master\CardboardSample\build\intermediates\pre-dexed\debug\cardboard-68c713422327df4b78b5cbdeb80dabaa4f4752bd.jar" />
+    </item>
+
+</items>
